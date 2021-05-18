@@ -1,8 +1,4 @@
-# <h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
-    
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
+
 
 <div>
 <strong>About Me:</strong><br>
@@ -30,10 +26,5 @@
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetro-dev&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
-<strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zetro-dev&repo=Kathryn-Jie&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
-</div>
-
-------
-Credit: [Kathryn-Jie](https://github.com/Kathryn-Jie)
-Last Edited on: 15/4/2021
+    
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zetro-dev&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
