@@ -16,7 +16,7 @@
 😄 Find me on <a href="https://www.linkedin.com/in/yi-jie-tey/">Linkedin</a><br><br><br>
 
 <strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kathryn-Jie&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zetro-dev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zetro-dev&hide_border=true"/><br><br>
 
 <strong>💡 My Languages :</strong><br><br>
