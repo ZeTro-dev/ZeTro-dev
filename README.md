@@ -25,6 +25,3 @@
 <img src="https://img.shields.io/badge/-CSS-lightgrey?style=plastic"/>
 <img src="https://img.shields.io/badge/-C++-lightgrey?style=plastic"/><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetro-dev&langs_count_private=true&theme=radical&card_width=445)<br><br>
-
-    
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zetro-dev&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
