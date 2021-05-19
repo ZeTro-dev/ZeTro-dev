@@ -1,7 +1,7 @@
 
 
 <div>
-<strong>About Me:</strong><br>
+<strong>Sur moi:</strong><br>
 💻 Un développeur Web passionné explorant les limites de la pile MEAN / MEVN.<br>
 📚 Maîtrise de la création d'applications mobile JavaScript de bout en bout.<br>
 📈 Avoir un fort appétit pour apprendre de nouvelles technologies dans un court laps de temps et les mettre en œuvre indépendamment.<br>
