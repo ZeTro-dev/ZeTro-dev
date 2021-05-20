@@ -6,7 +6,7 @@
 📚 Maîtrise de la création d'applications mobile JavaScript de bout en bout.<br>
 📈 Avoir un fort appétit pour apprendre de nouvelles technologies dans un court laps de temps et les mettre en œuvre indépendamment.<br>
 
-📫 RRejoignez-moi à <a href="zetrooff@gmail.com">zetrooff@gmail.com</a><br>
+📫 Rejoignez-moi à <a href="zetrooff@gmail.com">zetrooff@gmail.com</a><br>
 😄 Trouvez-moi sur <a href="https://discord.gg/2Ph7nNSQPJ">Café Des Devs</a><br><br><br>
 
 <strong>📊 Mes Statistiques Github:</strong><br><br>
