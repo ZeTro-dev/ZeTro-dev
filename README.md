@@ -11,4 +11,4 @@
 
 <strong>📊 Mes Statistiques Github:</strong><br><br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zetro-dev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
