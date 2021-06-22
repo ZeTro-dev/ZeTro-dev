@@ -6,5 +6,6 @@ My name is Julien, I am a student and developer **fullstack**  with a lot of pro
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/khddev/count.svg" />
 </p>
+
 [![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeTro-dev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeTro-dev&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
