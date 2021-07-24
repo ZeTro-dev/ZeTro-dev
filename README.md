@@ -5,7 +5,7 @@ My name is Julien, I am a student and developer **fullstack**  with a lot of pro
   
 <p align="center">
  <a href="#">
-   <img alt="Gonz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzyui&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <img alt="ZeTro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzyui&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
  </a>
 </p>
 <br/>
@@ -17,6 +17,6 @@ My name is Julien, I am a student and developer **fullstack**  with a lot of pro
 <br/>
 <br/>
 <a href="#">
-  <img alt="Gonz's activity" src="https://activity-graph.herokuapp.com/graph?username=zetro-dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
+  <img alt="ZeTro's activity" src="https://activity-graph.herokuapp.com/graph?username=zetro-dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 <br/>
 <br/>
