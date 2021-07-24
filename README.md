@@ -10,7 +10,7 @@ My name is Julien, I am a student and developer **fullstack**  with a lot of pro
 </p>
 <br/>
 <a href="#">
-  <img alt="ZeTro's stats" src="https://github-readme-stats.vercel.app/api?username=gonzyui&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <img alt="ZeTro's stats" src="https://github-readme-stats.vercel.app/api?username=Zetro-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
   <a href="#">
     <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetro-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <br/>
