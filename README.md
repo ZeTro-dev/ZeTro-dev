@@ -5,7 +5,7 @@ My name is Julien, I am a student and developer **fullstack**  with a lot of pro
   
 <p align="center">
  <a href="#">
-   <img alt="ZeTro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzyui&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <img alt="ZeTro's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zetro-dev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
  </a>
 </p>
 <br/>
