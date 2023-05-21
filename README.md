@@ -1,6 +1,6 @@
 ### Plop !👋
 
-My name is Julien, I am a student and developer **fullstack**  with a lot of projects in progress. You can find me on this [Discord Server](https://discord.gg/cafedesdevs), or even have more information about me on this [WebSite](https://cafedesdevs.fr).
+My name is Julien, I am a student and developer with a lot of projects in progress. You can find me on this [Discord Server](https://discord.gg/cafedesdevs), or even have more information about me on this [WebSite](https://cafedesdevs.fr).
 ## 📊 GitHub statistics
   
 <p align="center">
